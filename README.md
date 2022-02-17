@@ -1,4 +1,4 @@
-# dashgo
+# dashpro
 
 ### Aplição feita no quarto capitulo do curso Ignite da Rocketseat!
 ### Veja a página: https://dashpro.vercel.app/
