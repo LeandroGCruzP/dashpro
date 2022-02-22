@@ -11,7 +11,7 @@ export function Logo({ ...rest }: LogoProps) {
       w="256px"
       {...rest}
     >
-      dashgo
+      dashpro
       <Text as="span" ml="4px" color="pink.500">
         .
       </Text>
